@@ -1,0 +1,16 @@
+.DS_Store
+
+*.env*
+.secrets/*
+
+node_modules
+dist
+
+!.keep
+
+*.log
+
+junit.xml
+test-report.html
+
+coverage
